@@ -48,3 +48,5 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 
 </script>
+</body>
+</html>
